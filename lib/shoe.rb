@@ -9,9 +9,3 @@ attr_reader :brand
  end
 
 end
-
-
-
-
-
-end
